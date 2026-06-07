@@ -1,19 +1,11 @@
 # 🎯 Real-Time Occupancy Monitoring System
 
-> **CodeAlpha Internship — Task 4: Object Detection and Tracking**
+> **CodeAlpha Internship — AI Internship: Object Detection and Tracking**
 
-This project is submitted as **Task 4** of the [CodeAlpha](https://www.codealpha.tech/) Python Programming Internship.  
+This project is submitted as **Task 4** of the [CodeAlpha](https://www.codealpha.tech/) AI Internship.  
 It is a production-ready desktop application that uses **YOLOv8** for person detection and **Deep SORT** for multi-object tracking to automatically count entries, exits, and real-time occupancy from pre-recorded video footage — all wrapped in a professional **CustomTkinter** GUI.
 
----
 
-## 📸 Screenshots
-
-| Live Feed with Tracking | Statistics Panel | Analytics Dashboard |
-|:-:|:-:|:-:|
-| *(run the app to see)* | *(run the app to see)* | *(run the app to see)* |
-
----
 
 ## ✨ Features
 
