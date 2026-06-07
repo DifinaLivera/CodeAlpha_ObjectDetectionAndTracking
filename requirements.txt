@@ -1,0 +1,32 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# Real-Time Occupancy Monitoring System
+# requirements.txt
+# ─────────────────────────────────────────────────────────────────────────────
+
+# Core Computer Vision
+opencv-python>=4.8.0
+ultralytics>=8.0.0          # YOLOv8
+
+# Deep SORT Tracking
+deep-sort-realtime>=1.3.2
+
+# GUI
+customtkinter>=5.2.0
+Pillow>=10.0.0               # Image handling for GUI
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Reporting
+reportlab>=4.0.0
+
+# Utilities
+tqdm>=4.65.0                 # Progress bars
+
+# Optional: GPU acceleration (uncomment if CUDA available)
+# torch>=2.0.0+cu118
+# torchvision>=0.15.0+cu118
